@@ -1,2 +1,2 @@
-# mymlpath
+# MyMLpath
 Hi. I don't know if anyone will read this, but I'll write a description anyway! I started my way in ML very recently and I'm learning a lot, I have a dream to create my own startup or get a job in the future in OpenAI, DeepMind, Anthropic or other AI companies. If anyone ever comes in here besides me, my plan is to see my progress. 
